@@ -1,3 +1,6 @@
 [submodule "pydantic-ai"]
 	path = pydantic-ai
 	url = https://github.com/pydantic/pydantic-ai
+[submodule "langchain"]
+	path = langchain
+	url = https://github.com/langchain-ai/langchain
