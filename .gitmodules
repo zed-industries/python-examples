@@ -1,0 +1,3 @@
+[submodule "pydantic-ai"]
+	path = pydantic-ai
+	url = https://github.com/pydantic/pydantic-ai
